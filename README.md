@@ -1,2 +1,2 @@
 # Fly-Hunt-Game
-Shared Fly Hunting Game via Java RMI
+Shared Fly Hunting Game using Java RMI
